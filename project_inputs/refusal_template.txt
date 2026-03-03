@@ -1,8 +1,0 @@
-{
-  "summary": "",
-  "word_count": 0,
-  "source_id": "<same value as request>",
-  "refused": true,
-  "policy_code": "<policy_code>",
-  "message": "refused: policy_violation"
-}
