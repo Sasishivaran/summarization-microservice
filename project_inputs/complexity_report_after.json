@@ -1,0 +1,6 @@
+{
+    "summarize_handler.py": {
+        "cyclomatic_complexity": 7,
+        "maintainability_index": 78
+    }
+}

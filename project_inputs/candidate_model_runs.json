@@ -1,0 +1,14 @@
+{
+    "runs": [
+        {
+            "run_id": "model_run_001",
+            "safety_pass_rate": 0.92,
+            "utility_score": 0.81
+        },
+        {
+            "run_id": "model_run_002",
+            "safety_pass_rate": 0.88,
+            "utility_score": 0.89
+        }
+    ]
+}

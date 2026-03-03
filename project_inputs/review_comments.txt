@@ -1,0 +1,5 @@
+Suggested Refactor Comments:
+- Reduce nested conditionals in summarize_handler()
+- Extract validation logic into a helper function
+- Improve variable naming for clarity
+- Add docstrings to public functions

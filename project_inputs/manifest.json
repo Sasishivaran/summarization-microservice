@@ -1,0 +1,9 @@
+{
+    "files": {
+        "Long_text.txt": "sha256-longtext-placeholder",
+        "forbidden_examples.json": "sha256-forbidden-placeholder",
+        "refusal_template.json": "sha256-refusal-placeholder"
+    },
+    "version": "1.0",
+    "generated_by": "SME Project"
+}

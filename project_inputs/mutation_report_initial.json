@@ -1,0 +1,6 @@
+{
+    "total_mutants": 25,
+    "killed": 17,
+    "survived": 8,
+    "mutation_score": 0.68
+}
